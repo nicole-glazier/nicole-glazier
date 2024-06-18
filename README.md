@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicole-glazier
 - 👀 I’m interested in game design, web development, software engineering, and data science!
-- 🌱 I know HTML, CSS, Python, and Java.
-- 💞️ I’m a Computer Science major at the University of Utah.
+- 🌱 I know C#, Java, Javascript, Python, HTML, and CSS. I have experience in the .NET framework, as well as using React.
+- 💞️ I’m double majoring in Computer Science and Applied Mathematics at the University of Utah.
 - 📫 You can reach me at nicoleglazier17@gmail.com or (801) 608-7859.
 
 <!---
